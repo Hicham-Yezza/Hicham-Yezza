@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hicham-Yezza
 - 👀 I’m interested in Computation, Cognition & Complexity
-- 🌱 I’m currently learning ML & scientific modelling in Python/R
-- 💞️ I’m looking to collaborate on AI/ML in global health and environmental science applications
+- 🌱 I’m currently researching ML & scientific modelling in Python/R
+- 💞️ I’m looking to collaborate on AI/ML applications, particularly in renewable energy, global health and environmental sciences
 - 📫 How to reach me: hicham.yezza@gmail.com
 
 <!---
