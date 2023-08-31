@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hicham-Yezza
-- 👀 I’m interested in Computation, Cognition & Complexity
-- 🌱 I’m currently researching ML & scientific modelling in Python/R
-- 💞️ I’m looking to collaborate on AI/ML applications, particularly in renewable energy, global health and environmental sciences
-- 📫 How to reach me: hicham.yezza@gmail.com
+- 👀 I’m interested in Computation, Cognition & Complexity - with a specific focus on neurosymbolic AI
+- 🌱 I’m currently working on research projects exploring neurosymbolic approaches for enhancing LLM capabilities
+- 💞️ I’m always looking to collaborate on AI/ML projects - particularly in the NLP/media applications space
+- 📫 How to reach me: hicham /dot/ yezza at gmail 
 
 <!---
 Hicham-Yezza/Hicham-Yezza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
