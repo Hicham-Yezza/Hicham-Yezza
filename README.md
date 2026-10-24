@@ -18,6 +18,7 @@ A computer scientist by training (University of Nottingham), with more than two 
 
 - *Turning Expert Judgement into Evidence: Responsible AI Evaluation at Scale*, AI & Big Data Expo Europe (TechEx), Amsterdam, October 2026
 - *The News Integrity in AI Toolkit: the challenges of evaluating LLM factuality*, Point Conference, Sarajevo, June 2026
+- [*The News Integrity in AI Toolkit: the challenges of evaluating LLM factuality*](https://point.zastone.ba/the-news-integrity-in-ai-toolkit-the-challenges-of-evaluating-llm-factuality/), Point Conference, Sarajevo, June 2026
 - *Towards an AI-in-News Evaluation Benchmark: the BBC/EBU News Integrity in AI Assistants Toolkit*, EBU Data Technology Seminar, March 2026
 
 ## Elsewhere
