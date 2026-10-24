@@ -1,6 +1,6 @@
 # Hicham Yezza
 
-Principal Data Scientist for Responsible AI at the BBC, where I lead work on evaluating the accuracy, risks and safety of AI systems and their impact on our organisational and editorial values. I'm also a Visiting Fellow at the University of Reading.
+Principal Data Scientist for Responsible AI at the BBC, where I lead work on evaluating the accuracy, risks and safety of AI systems and their impact on BBC organisational and editorial values. I'm also a Visiting Fellow at the University of Reading.
 
 ## Current work
 
