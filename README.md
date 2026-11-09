@@ -12,7 +12,7 @@ Most of my code is Python: evaluation pipelines, NLP and data analysis.
 
 ## Background
 
-A computer scientist by training (University of Nottingham), with more than two decades of editorial leadership and consulting work for UN agencies and NGOs.
+A computer scientist by training (University of Nottingham, University of Reading, Nottingham Trent University), with more than two decades of editorial leadership and consulting work for UN agencies and NGOs.
 
 ## Recent talks
 
